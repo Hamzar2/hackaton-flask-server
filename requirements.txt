@@ -1,9 +1,9 @@
 flask==3.0.2
 flask-cors==4.0.0
 huggingface-hub
-python-dotenv==1.0.0
+python-dotenv
 transformers
 torchvision 
 pillow
-bitsandbytes
-accelerate>=0.26.0
+gunicorn
+ultralyticsplus
