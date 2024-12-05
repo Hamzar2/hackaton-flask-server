@@ -10,7 +10,7 @@ from io import BytesIO
 import requests
 from ultralyticsplus import YOLO, postprocess_classify_output
   
-
+# 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
 # Load environment variables
 load_dotenv()
 API_URL = os.getenv("API_URL")
